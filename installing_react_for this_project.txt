@@ -1,0 +1,11 @@
+To Downgrade react...
+
+Open terminal in project folder >>>
+
+npm uninstall react
+
+npm install --save react@16.0.0
+
+npm install --save react-dom@16.0.0
+
+npm install --save react-router-dom@5.2.0
